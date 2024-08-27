@@ -1,3 +1,7 @@
+Deployed Smart CA-0xf3072F24Fa8c518ba95fA1FE896C42893d3FFEe3
+0xeb31c4E93e4e7988d93cca1f2CBA49A54db5922e
+Wallet Address -0x8eB1a5f9797430254e4c08137e8B60Ed975DeDA3
+
 # WhistleBlower
 
 <strong>Defending facts on the web</strong>
