@@ -1,23 +1,7 @@
 # WhistleBlower
 
-<p align="center"><img src="https://github.com/pjflux2001/whistleblowerUI/blob/main/WB_2.png" width = "25%" height = "25%"></p>
-
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]() [![Website](https://img.shields.io/badge/View-Website-blue)](https://wb.noormohammed.tech/)
-
 <strong>Defending facts on the web</strong>
 
-## Contents
-
-1. [Description](#Description)
-1. [Demo video](#demo-video)
-1. [The architecture](#the-architecture)
-1. [Live demo](#live-demo)
-1. [Built with](#built-with)
-1. [Contributing](#contributing)
-1. [Versioning](#versioning)
-1. [Authors](#authors)
-1. [License](#license)
-1. [Acknowledgments](#acknowledgments)
 
 ## Description
 
@@ -31,41 +15,14 @@ WhistleBlower is a web application that maintains the user's anonymity while the
 
 ### What we learned ?
 
-We learned about development using Solidity, IPFS, Web3.js, Truffle, along with using the MERN stack to handle different functionalities on the application. We observed how big IPFS already is and how it can scale as per our requirements with the help of the Filecoin network. Also, Polygon can be used to scale and expand the scope of the application across various Ethereum-compatible blockchain networks without sacrificing the performance of our application.
+We learned about development using Solidity, IPFS, Web3.js, Truffle, along with using the MERN stack to handle different functionalities on the application. We observed how big IPFS already is and how it can scale as per our requirements with the help of the Filecoin network. Also, Educhain can be used to scale and expand the scope of the application across various Ethereum-compatible blockchain networks without sacrificing the performance of our application.
 
 ### Challenges we ran into
 1. Moving between local and test blockchain networks
 1. Checking file formats from the IPFS file hash
 1. Connecting the tokens with post logic
 
-### Accomplishments that we're proud of
-1. Integrated diverse tech stacks to work together
-1. Learned a lot about Ethereum blockchain and its technologies - FileCoin and Polygon.
-1. Joined the QuestBook community
 
-### What's next for WhistleBlower
-Our app is still in the early stages of production, and there is a lot yet to come. We are planning to add the following features :
-
-1. Minting / Issuing a whistleblower native token to the user based on their activity on the site, just like basic attention token(BAT) in Brave browser.
-1. Filtering posts based on the category tag used
-1. Improving upon the comments and share button
-1. Using media queries to make it more reactive and responsive
-1. Animate on scroll to add animations and transitions for cards
-1. Evolving it into a progressive web application
-
-## Demo video
-
-[![Watch the video](https://i.imgur.com/ozN0F20m.png)](https://youtu.be/Mst8ILBnNHk)
-
-You can find the demo video at [Video](https://www.youtube.com/watch?v=Mst8ILBnNHk).
-
-## The architecture
-
-<p align="center"><img src="https://i.imgur.com/9W8iegr.png" width = "66%" height = "66%"></p>
-
-## Live demo
-
-You can find a running system to test at [wb.noormohammed.tech](https://wb.noormohammed.tech/)
 
 ## Built with
 
@@ -75,27 +32,4 @@ You can find a running system to test at [wb.noormohammed.tech](https://wb.noorm
 1. Blockchain - web3.js, Truffle, Ganache, Metamask, IPFS
 1. Others - Github (version control), AWS (deploy)
 
-## Contributing
 
-Please read [here](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [github](https://github.com/) for versioning. Versions will be made available as [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Bhanu** - [bhanu1037](https://github.com/bhanu1037)
-* **Prashant** - [pjflux2001](https://github.com/pjflux2001)
-* **Satyam** - [itzsatya](https://github.com/itzsatya)
-* **Noor** - [noormohammedb](https://github.com/noormohammedb)
-* **Vishmay** - [Vishmay919](https://github.com/Vishmay919)
-* **Darshana** - [darshana-v](https://github.com/darshana-v)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-## Acknowledgments
-
-* Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
